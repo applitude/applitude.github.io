@@ -11,10 +11,14 @@ body {
 
 h3.intro {
   line-height: 1.67em;
-  max-width: 90%;
   width: 500px;
   margin: auto;
   padding-bottom: 1em;
+}
+
+h4 a {
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 /* Wrapper for page content to push down footer */
@@ -98,7 +102,6 @@ h3.intro {
 
 .container {
   width: auto;
-  /*max-width: 800px;*/
   width: 800px;
   max-width: 100%;
   text-align: center;
@@ -116,6 +119,7 @@ h3.intro {
  display: block;
  height: auto;
  max-width: 100%;
+ margin: auto;
 }
 .panel-default h4 {
   text-align: left;
@@ -145,7 +149,8 @@ h3.intro {
 }
 .social {
   padding-top: 5%;
-  word-spacing: 25px;
+  /*word-spacing: 25px;*/
+  text-align: center;
 }
 .social h4 > a {
   color: #000000;
