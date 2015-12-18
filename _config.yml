@@ -1,8 +1,8 @@
 # top level stuff you probably don't need to touch
-highlighter: pygments
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
+highlighter: rouge
+markdown: kramdown
+# rdiscount:
+#  extensions: [smart]
 permalink: /:title.html
 paginate: 5
 gems: [jekyll-paginate]
@@ -11,20 +11,20 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
+url: http://applitude.github.io/
+baseurl: /
+title: Applitude studentforening
+author: Applitude
+description: Studentforening ved Universitetet i Oslo
 avatar: profile.png
-email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus 
-disqus: username
-google_analytics: UA-69391421-1
+email: kontakt@applitude.no
+github: applitude # username
+twitter: applitudeuio
+# linkedin: username
+# stackoverflow: username   #e.g: users/2735833/proton1h1
+# Comment out if you don't want disqus
+# disqus: username
+# google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
