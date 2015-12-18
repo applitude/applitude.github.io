@@ -11,7 +11,7 @@ body {
 
 h3.intro {
   line-height: 1.67em;
-  /*max-width: 90%;*/
+  max-width: 90%;
   width: 500px;
   margin: auto;
   padding-bottom: 1em;
