@@ -1,4 +1,4 @@
-/* Main page with stikky-footer
+/* Main page with sticky footer
 -------------------------------------------------- */
 html,
 body {
@@ -150,7 +150,6 @@ h4 a {
 }
 .social {
   padding-top: 5%;
-  /*word-spacing: 25px;*/
   text-align: center;
 }
 .social h4 > a {
@@ -190,12 +189,7 @@ h4 a {
 }
 
 .member {
-  width: 200px;
   padding-bottom: 7%;
-  text-align: center;
-  float:left;
-  margin-left: 23px;
-  margin-right: 23px;
 }
 
 .member-img {
@@ -207,13 +201,12 @@ h4 a {
 p.member {
   font-size: 18px;
   padding-top: 10px;
-  margin:auto;
+  padding-bottom: 5px;
   line-height: 0em;
 }
 
 p.member-title {
   font-size: 16px;
-  margin:auto;
 }
 
 /* Footer
@@ -232,5 +225,4 @@ div.footer{
 /*.footer {
   height: 50px;
   padding-bottom: 15px;
-
 }*/
