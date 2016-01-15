@@ -17,6 +17,11 @@ h3.intro {
   padding-bottom: 1em;
 }
 
+#logo{
+    margin:auto;
+    max-width: 90%;
+}
+
 h4 a {
   margin-left: 20px;
   margin-right: 20px;
