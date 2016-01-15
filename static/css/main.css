@@ -16,7 +16,9 @@ h3.intro {
   margin: auto;
   padding-bottom: 1em;
 }
-
+#space-after-logo{
+    height:17px;
+}
 #logo{
     margin:auto;
     max-width: 90%;
