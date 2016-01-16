@@ -1,2 +1,5 @@
 User-agent: *
-Disallow: /
+Sitemap: {{ site.url }}/sitemap.xml
+
+# Uncomment to ban spiders from entire site
+# Disallow: /
