@@ -3,10 +3,7 @@
 
 Dette er nettsiden til Applitude studentforening.
 
-
- Besøk siden vår
-
-[Applitude](applitude.no)
+[**Besøk siden vår**](applitude.no)
 
 
 ## Skjermbilder
