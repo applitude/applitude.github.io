@@ -12,7 +12,7 @@ Fra han som laget temaet.
 **Fremside**
 ![home page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen1.png)
 
-**Bloggide**
+**Bloggside**
 ![blog page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen2.png)
 
 **innlegg**
