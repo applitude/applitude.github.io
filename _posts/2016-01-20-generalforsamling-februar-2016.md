@@ -28,3 +28,18 @@ Har du forslag til vedtektsendringer, må disse sendes til kontakt@applitude.no 
 Sted: Ole-Johan Dahls hus, rom Pascal
 
 Vel møtt!
+
+--
+
+Redigering 31. januar:
+
+Dagsorden:
+
+- Valg av møteleder, referent og protokollunderskrivere
+- Godkjenning av innkalling og dagsorden
+- Årsberetning
+  - Generell del ved styreleder Gaute Solheim
+  - Økonomirettet del ved økonomiansvarlig Thomas Gulli
+- Godkjenning av regnskap fra forrige periode og budsjett for neste periode
+- Behandling av forslag til vedtektsendringer
+- Valg av styremedlemmer
