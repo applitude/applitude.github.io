@@ -16,17 +16,21 @@ h3.intro {
   margin: auto;
   padding-bottom: 1em;
 }
+
 #space-after-logo{
     height:17px;
 }
+
 #logo{
     margin:auto;
     max-width: 90%;
 }
 
+/* Social links on main page */
 h4 a {
   margin-left: 20px;
   margin-right: 20px;
+  font-size: 24px;
 }
 
 /* Wrapper for page content to push down footer */
@@ -164,7 +168,7 @@ h4 a {
   color: #000000;
 }
 .avatar {
-  padding-top: 6%;
+  padding-top: 8%;
   padding-bottom: 7%;
 }
 .blog-post{
