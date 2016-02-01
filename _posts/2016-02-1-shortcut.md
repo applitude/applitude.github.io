@@ -2,7 +2,7 @@
 layout: post
 title: Bedriftsbesøk
 ---
-##Bedriftsbesøk hos Shortcut##
+##Bedriftsbesøk hos Shortcut
 <img src="static/img/Bedriftsbesok.jpg" align="right"/>
 **Fredag den 29.1 var flere medlemmer i Applitude på besøk hos Shortcut, som er Norges ledende appbyrå. Besøket besto av en to timers Q&A, samt en omvisning.**
 
