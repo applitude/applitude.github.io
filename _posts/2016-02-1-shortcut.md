@@ -2,7 +2,7 @@
 layout: post
 title: Bedriftsbesøk
 ---
-<img src="static/img/Bedriftsbesok.jpg" align="right"/>
+<img src="static/img/Bedriftsbesok.jpg" align="right" width="60%" height="auto"/>
 **Fredag den 29.1 var flere medlemmer i Applitude på besøk hos Shortcut, som er Norges ledende appbyrå. Besøket besto av en to timers Q&A, samt en omvisning.**
 
 Til sammen 8 stykker fra Applitude troppet opp fredag ettermiddag for å besøke Shortcut i deres lokaler i Oslo sentrum. Shortcut i seg selv er ingen liten bedrift og kan skryte av 30 ansatte som har levert apper til mange bedrifter i flere år. Deres første app kom i 2008, samme året som App Store så dagens lys, og de har siden den gang bare fortsatt. Derfor kan man trygt si at det var en spent gjeng som møtte opp hos dem.
