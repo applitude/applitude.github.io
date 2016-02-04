@@ -25,7 +25,7 @@ title: Vedtekter
 
 1. Generalforsamlingen er foreningens øverste myndighet.
 
-2. Generalforsamlingen skal avholdes hvert semester; innen 10. september i høstsemesteret, og innen 10. februar i vårsemesteret.
+2. Generalforsamlingen skal avholdes innen utgangen av hvert semester.
 
 3. Styret innkaller til generalforsamling med minst 14 dagers varsel. Dagsorden offentliggjøres senest to (2) dager før generalforsamlingen.
 
@@ -45,21 +45,19 @@ title: Vedtekter
 
 1. Styrets medlemmer plikter å arbeide for å fremme foreningens formål.
 
-2. Leder eller nestleder innkaller til styremøte med minst syv (7) dagers varsel.
+2. Styret er vedtaksdyktige om minst 1/2 av styremedlemmene er til stede. Vedtak fattes ved simpelt flertall.
 
-3. Styret er vedtaksdyktige om minst 1/2 av styremedlemmene er til stede. Vedtak fattes ved simpelt flertall.
+3. Styret skal ha minimum tre (3) og maksimum åtte (8) styremedlemmer. Faste stillinger i styret er leder, nestleder og økonomiansvarlig. Øvrige stillinger bestemmes av styret.
 
-4. Styret skal ha minimum tre (3) og maksimum åtte (8) styremedlemmer. Faste stillinger i styret er leder, nestleder og økonomiansvarlig. Øvrige stillinger bestemmes av styret.
+4. Et medlem kan til enhver tid ha maksimum én (1) stilling i styret.
 
-5. Et medlem kan til enhver tid ha maksimum én (1) stilling i styret.
+5. Alle medlemmer har møterett på styremøter, men bare styremedlemmer har stemmerett.
 
-6. Alle medlemmer har møterett på styremøter, men bare styremedlemmer har stemmerett.
+6. Styremedlemmer som ikke møter og ikke melder forfall to styremøter på rad regnes som fratrådt.
 
-7. Styremedlemmer som ikke møter og ikke melder forfall to styremøter på rad regnes som fratrådt.
+7. Dersom foreningens leder trår av, erstattes stillingen av foreningens nestleder.
 
-8. Dersom foreningens leder trår av, erstattes stillingen av foreningens nestleder.
-
-9. Styret kan ved behov velge nye styremedlemmer.
+8. Styret kan ved behov velge nye styremedlemmer.
 
 ### §5 - Vedtekter
 
@@ -90,3 +88,5 @@ title: Vedtekter
 ### §9 - Oppløsning
 
 1. Foreningen kan oppløses ved at 2/3 av de stemmeberettigede på to etterfølgende ordinære generalforsamlinger stemmer for oppløsning. Ved oppløsning vil midler og eiendeler overføres en annen egnet studentforening.
+
+Sist revidert etter generalforsamling 3.2.2016.
