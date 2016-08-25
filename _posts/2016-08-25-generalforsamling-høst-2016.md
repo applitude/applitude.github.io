@@ -37,15 +37,15 @@ Applitude invites to general assembly!
 
 Thursday, September 8th, at 16:30, Applitude holds its general assembly for the current semester. Here the board leader and treasurer will present a summary of our activity since the previous general assembly, our established plans for the current semester, and statute change proposals will be voted for.
 
-Last, but absolutely not least, there will be a election of new board members.
+Last, but absolutely not least, there will be an election of new board members.
 
 The positions to be elected are:
 
 - Chairman
 - Vice Chair
-- Events director
+- Event director
 - Communications director
-- Recruitings director
+- Recruiting director
 - Board member
 - Board member
 
