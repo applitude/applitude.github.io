@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generalforsamling februar 2016
+title: Generalforsamling vår 2016
 ---
 
 Applitude inviterer til generalforsamling!

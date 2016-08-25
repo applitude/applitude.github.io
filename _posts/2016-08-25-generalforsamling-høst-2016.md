@@ -51,7 +51,9 @@ The positions to be elected are:
 
 Statute change proposals must be sent to kontakt@applitude.no no more than 7 days before the general assembly.
 
-If you wish to become an Applitude member before the general assembly, you can apply for membership here: https://goo.gl/9APQdJ.
+If you wish to become an Applitude member before the general assembly, you can apply for membership [here](https://goo.gl/9APQdJ).
+
+[Link to Facebook event](https://www.facebook.com/events/1718054161793948/)
 
 Location: Ole-Johan Dahls hus. The specific room will be announced shortly.
 
