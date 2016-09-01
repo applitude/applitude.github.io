@@ -27,7 +27,18 @@ Har du forslag til vedtektsendringer, må disse sendes til kontakt@applitude.no 
 
 [Lenke til Facebook-event](https://www.facebook.com/events/1718054161793948/)
 
-Sted: Ole-Johan Dahls hus. Rom annonseres snarest.
+Sted: Ole-Johan Dahls hus, rom Pascal.
+
+Dagsorden:
+
+- Valg av møteleder, referent og protokollunderskrivere
+- Godkjenning av innkalling og dagsorden
+- Årsberetning
+  - Generell del ved styreleder Gaute Solheim
+  - Økonomirettet del ved økonomiansvarlig Thomas Gulli
+- Godkjenning av regnskap fra forrige periode og budsjett for neste periode
+- Behandling av forslag til vedtektsendringer
+- Valg av styremedlemmer
 
 Vel møtt!
 
@@ -55,6 +66,6 @@ If you wish to become an Applitude member before the general assembly, you can a
 
 [Link to Facebook event](https://www.facebook.com/events/1718054161793948/)
 
-Location: Ole-Johan Dahls hus. The specific room will be announced shortly.
+Location: Ole-Johan Dahls hus, room Pascal.
 
 See you there!
