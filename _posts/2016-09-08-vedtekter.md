@@ -5,21 +5,25 @@ title: Vedtekter
 
 ## Vedtekter for Applitude studentforening
 
-### §1 - Navn og formål
+### §1 - Navn, tilhørighet og formål
 
 1. Foreningens navn er Applitude studentforening.
 
-2. Foreningens formål er å skape og vedlikeholde et godt sosialt og faglig miljø for mobil apputvikling blant studenter ved Universitetet i Oslo. Foreningen skal også tilrettelegge for kontakt mellom studenter på forskjellige studieretninger, ferdighetsnivåer og årstrinn.
+2. Foreningen er en studentforening ved Institutt for informatikk ved Universitetet i Oslo.
+
+3. Foreningens formål er å skape og vedlikeholde et godt sosialt og faglig miljø for mobil apputvikling blant studenter ved Universitetet i Oslo. Foreningen skal også tilrettelegge for kontakt mellom studenter på forskjellige studieretninger, ferdighetsnivåer og årstrinn.
 
 ### §2 - Medlemskap
 
 1. Alle studenter som har betalt semesteravgift ved Universitetet i Oslo skal, dersom de ønsker det, tildeles medlemskap mot betalt medlemskontingent.
 
-2. Medlemskontingenten fastsettes av styret.
+2. Personer som ikke oppfyller kravene i §2.1 kan, dersom det ikke strider mot gjeldende regler for godkjenning av studentforeninger ved en enhet nevnt i §1, tildeles medlemskap mot betalt medlemskontingent.
 
-3. Medlemskap gjelder fra start av inneværende semesters generalforsamling til start av neste semesters generalforsamling.
+3. Medlemskontingenten fastsettes av styret.
 
-4. Medlemskap opphører dersom medlemmets studentstatus opphører.
+4. Medlemskap gjelder fra start av inneværende semesters generalforsamling til start av neste semesters generalforsamling.
+
+5. Medlemskap opphører dersom medlemmets studentstatus opphører.
 
 ### §3 - Generalforsamling
 
@@ -89,4 +93,4 @@ title: Vedtekter
 
 1. Foreningen kan oppløses ved at 2/3 av de stemmeberettigede på to etterfølgende ordinære generalforsamlinger stemmer for oppløsning. Ved oppløsning vil midler og eiendeler overføres en annen egnet studentforening.
 
-Sist revidert etter generalforsamling 3.2.2016.
+Sist revidert etter generalforsamling 8.9.2016.
