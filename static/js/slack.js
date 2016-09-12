@@ -12,7 +12,7 @@ window.onload = function(e){
             
         data.title = "Innmelding i Slack-gruppe";
             
-        data.body = "navn=" + name + "\nepost=" + email;
+        data.body = "navn  = " + name + "\nepost = " + email;
         
         data.to = "kontakt@applitude.no";
 
@@ -22,11 +22,21 @@ window.onload = function(e){
             data:JSON.stringify(data),
             contentType:"application/json; charset=utf-8",
             success: function(){
-                $('#result').empty().append("Du vil snart mota en invitasjon på epost.");
+                if(window.location.href.indexOf("slack_en") > 0){
+                    $('#result').empty().append("You will soon receive an invite by email.");
+                }else{
+                    $('#result').empty().append("Du vil snart mota en invitasjon på epost.");
+                }
+                $('.slack-form').hide();
+            },
+            error: function(a, b, c){
+                if(window.location.href.indexOf("slack_en") > 0){
+                    $('#result').empty().append("Sending an invite failed. Please try again later.");
+                }else{
+                    $('#result').empty().append("Skjemaet ble ikke sendt. Venligst prøv igjen senere.");
+                }
                 $('.slack-form').hide();
             }
         })
-    } )
-    
+    } )   
 }
-    
