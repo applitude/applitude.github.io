@@ -2,8 +2,8 @@
   <div class="container">
     <div class="navbar-header">
       <a class="navbar-brand" href="{{ site.baseurl }}{% if page.lang == 'no'%}{% else %}en/{% endif %}"><i class="fa fa-home" style="margin-right:15px;"></i></a>
-      <img class="navbar-brand" src="{{ site.baseurl }}static/img/no_flag.png" onClick="location.href='{{ site.baseurl }}'" style="cursor:pointer;">
-      <img class="navbar-brand" src="{{ site.baseurl }}static/img/en_flag.png" onClick="location.href='{{ site.baseurl }}en'" style="cursor:pointer;">
+      <img class="navbar-brand" id="norwegian-link" style="cursor: pointer;" src="{{ site.baseurl }}static/img/no_flag.png"></img>
+      <img class="navbar-brand" id="english-link" style="cursor: pointer;" src="{{ site.baseurl }}static/img/en_flag.png"></img>
     </div>
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">
