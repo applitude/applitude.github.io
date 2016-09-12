@@ -1,16 +1,18 @@
 <nav class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="{{ site.baseurl }}"><i class="fa fa-home"></i></a>
+      <a class="navbar-brand" href="{{ site.baseurl }}{% if page.lang == 'no'%}{% else %}en/{% endif %}"><i class="fa fa-home" style="margin-right:15px;"></i></a>
+      <img class="navbar-brand" src="{{ site.baseurl }}static/img/no_flag.png" onClick="location.href='{{ site.baseurl }}'" style="cursor:pointer;">
+      <img class="navbar-brand" src="{{ site.baseurl }}static/img/en_flag.png" onClick="location.href='{{ site.baseurl }}en'" style="cursor:pointer;">
     </div>
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="{{ site.baseurl }}blogg.html">BLOGG</a></li>
-        <li><a href="{{ site.baseurl }}prosjekter.html">PROSJEKTER</a></li>
-        <li><a href="{{ site.baseurl }}styret.html">STYRET</a></li>
-        <li><a href="{{ site.baseurl }}vedtekter.html">VEDTEKTER</a></li>
-        <li><a href="{{ site.baseurl }}slack.html">SLACK</a></li>
-        <li><a href="https://docs.google.com/forms/d/10QyDgzLyBh9TpBEpjlq4oCRm4YdYsfLF1z3XfqpDOL4/viewform">BLI MEDLEM</a></li>
+        <li><a href="{{ site.baseurl }}{% if page.lang == 'no' %}{% else %}en/{% endif %}blogg.html">{% if page.lang == 'no' %}BLOGG{% else %}BLOG{% endif %}</a></li>
+        <li><a href="{{ site.baseurl }}{% if page.lang == 'no' %}{% else %}en/{% endif %}prosjekter.html">{% if page.lang == 'no' %}PROSJEKTER{% else %}PROJECTS{% endif %}</a></li>
+        <li><a href="{{ site.baseurl }}{% if page.lang == 'no' %}{% else %}en/{% endif %}styret.html">{% if page.lang == 'no' %}STYRET{% else %}BOARD MEMBERS{% endif %}</a></li>
+        <li><a href="{{ site.baseurl }}vedtekter_{{page.lang}}.html">{% if page.lang == 'no' %}VEDTEKTER{% else %}STATUTES{% endif %}</a></li>
+        <li><a href="{{ site.baseurl }}slack_{{page.lang}}.html">SLACK</a></li>
+        <li><a href="https://docs.google.com/forms/d/10QyDgzLyBh9TpBEpjlq4oCRm4YdYsfLF1z3XfqpDOL4/viewform">{% if page.lang == 'no' %}BLI MEDLEM{% else %}BECOME A MEMBER{% endif %}</a></li>
       </ul>
     </div>
   </div>

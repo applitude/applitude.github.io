@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: 'no'
 title: Generalforsamling vår 2016
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: 'no'
 title: Sommeravslutning med grillings!
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: home
+lang: 'no'
 ---
 
 <section id="about">
@@ -7,14 +8,14 @@ layout: home
 	  <div class="avatar">
 
 		<svg id="logo" viewBox="0 0 {{ site.avatar_width }} {{ site.avatar_height }}" width="{{ site.avatar_width }}">
-            <image x="0" y="0" height="{{ site.avatar_height }}" width="{{ site.avatar_width }}" max-width="90%" xlink:href="{{ site.baseurl }}static/img/{{ site.avatar }}" />
+            <image x="0" y="0" height="{{ site.avatar_height }}" width="{{ site.avatar_width }}" max-width="90%" xlink:href="{{site.url}}static/img/{{ site.avatar }}" />
         </svg>
 
         <div class="visible-xs" id="space-after-logo"></div>
 	  </div>
 
 		<h3 class="intro">Applitude er en studentforening for alle som er interesserte i apputvikling. Vi arrangerer kurs, sosiale (h)appenings og møtes jevnlig for å programmere sammen.</h3>
-		<h3 class="intro">Sjekk ut <a href="/prosjekter.html">prosjekter-siden</a> for å finne ut hva vi driver med. Neste arrangement	finner du på <a href="http://facebook.com/applitude" target="_blank">Facebook-siden vår</a>.</h3>
+		<h3 class="intro">Sjekk ut <a href="{{site.baseurl}}prosjekter.html">prosjekter-siden</a> for å finne ut hva vi driver med. Neste arrangement	finner du på <a href="http://facebook.com/applitude" target="_blank">Facebook-siden vår</a>.</h3>
 	  {% include social.html %}
 	</div>
 </section>

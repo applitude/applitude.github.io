@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: 'no'
 title: Historien til Applitude studentforening
 ---
 

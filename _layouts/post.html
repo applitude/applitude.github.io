@@ -23,8 +23,9 @@ layout: layout
 			  {{ content }}
 			   <hr>
 			   <div class="related-posts">
-				   <h5>Relaterte innlegg</h5>
+				   <h5>{% if page.lang == 'no' %}Relaterte innlegg{% else %}Related posts{% endif %}</h5>
 				   {% for post in site.related_posts limit:3 %}
+					 {% if post.lang == page.lang %}
 						<div class="row">
 							 <div class="col-sm-4 col-md-4 col-lg-4">
 								 <h6 style="text-align: right">
@@ -37,6 +38,7 @@ layout: layout
 								 </h6>
 							 </div>
 						</div>
+						{% endif %}
 					{% endfor %}
 			   </div>
 			</div>

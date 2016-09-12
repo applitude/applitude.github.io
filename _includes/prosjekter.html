@@ -1,17 +1,22 @@
 <section id="prosjekter">
 <div class="container">
-  <h3>Prosjekter</h3>
+  <h3>{% if page.lang == 'no' %}Prosjekter{% else %}Projects{% endif %}</h3>
   <div class="panel panel-default">
     <div class="panel-body">
+      <h5>
+  			<i class="fa fa-apple"></i>&nbsp;&nbsp;<strong><a href="http://palettiapp.com">Paletti</a></strong>
+  			{% if page.lang == 'no' %}Paletti er Gautes største iOS-prosjekt til nå. Appen lar brukere lagre og navngi fargekoder i paletter (mapper), slik at de ved hjelp av iCloud-sync er tilgjengelig på flere enheter. Den har også noen kule tilleggsfunksjoner, som fargescanning via kamera og reorganisering av farger med automatisk scrolling hvis man drar fargecellen mot toppen eller bunnen av skjermen.{% else %}Paletti is Gaute's biggest iOS project so far. The app let's users save and name color codes in palettes (folders) which then by iCloud-sync becomes accessible on multiple iOS devices. In addition, it also has some cool features like color scanning by camera and reorganization of colors by automatic scrolling if one pulls the color cell to the top or bottom of the screen.{% endif %}
+      </h5>
+      <hr>
 		<h5>
 			<i class="fa fa-github"></i>&nbsp;&nbsp;<strong><a href="https://github.com/SteinTokvam/Binary-Converter_app">Binary Converter</a></strong>
-			Binary Converter er et lite prosjekt til Android Stein Petter har jobbet på når han har hatt tid. Denne appen tar vanlige tall og konverterer dem til binærtall, og motsatt. For eksempel, skriver du inn tallet 2, vil du få ut binærtallet 10.
-		</h5>
+			{% if page.lang == 'no' %}Binary Converter er et lite prosjekt til Android som Stein Petter har jobbet på når han har hatt tid. Denne appen tar vanlige tall og konverterer dem til binærtall, og motsatt. For eksempel, skriver du inn tallet 2, vil du få ut binærtallet 10.{% else %}Binary Converter is a small scale android project that Stein Petter has been working with in his spare time. This app takes ordinary numbers and convert them to binary numbers and vice versa. For instance, if you write the number 2, you'll get the binary number 10.{% endif %}
+    </h5>
     <hr>
     <h5>
-			<i class="fa fa-apple"></i>&nbsp;&nbsp;<strong><a href="http://palettiapp.com">Paletti</a></strong>
-			Paletti er Gautes største iOS-prosjekt til nå. Appen lar brukere lagre og navngi fargekoder i paletter (mapper), slik at de ved hjelp av iCloud-sync er tilgjengelig på flere enheter. Den har også noen kule tilleggsfunksjoner, som fargescanning via kamera og reorganisering av farger med automatisk scrolling hvis man drar fargecellen mot toppen eller bunnen av skjermen.
-		</h5>
+      <i class="fa fa-apple"></i>&nbsp;&nbsp;<strong><a href="https://github.com/EspenNaess/Hjernevekker">Hjernevekker</a></strong>
+      {% if page.lang == 'no' %}Hjernevekker er et iOS prosjekt skrevet i Objective-C som Espen utviklet for noen år siden. Det er en vekkerklokke som vekker deg med fysiske og teoretiske utfordinger for å sikre at personen blir våken når alarmen ringer. Den har også noen fine tilleggsfunksjoner som å hente været fra posisjonen din, lommelykt m.m.{% else %}Hjernevekker is an iOS project written in Objective-C that Espen developed some years ago. It's an alarm clock that wakes you up with physical and theoretical challenges and makes sure the user becomes awake when the alarm goes off. It also has some cool features like fetching the weather from the users current position, flashlight and other cool features. {% endif %}
+    </h5>
     <!--
 		<h5>
 			<i class="fa fa-globe"></i>&nbsp;&nbsp;<strong><a href="#">Project 4</a></strong>

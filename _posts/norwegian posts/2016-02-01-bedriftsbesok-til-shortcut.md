@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: 'no'
 title: Bedriftsbesøk
 ---
 <img src="static/img/Bedriftsbesok.jpg" align="right" width="60%" height="auto"/>

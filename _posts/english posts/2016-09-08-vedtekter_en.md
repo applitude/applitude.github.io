@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Vedtekter
+lang: 'en'
+title: Statutes
 ---
 
-## Vedtekter for Applitude studentforening
+## Statutes for Applitude student organization
+
+##### To keep the integrity of the statutes we only have a norwegian version
 
 ### §1 - Navn, tilhørighet og formål
 

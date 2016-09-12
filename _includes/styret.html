@@ -1,6 +1,6 @@
 <section id="styret">
 <div class="container">
-  <h3>Styret høsten 2016</h3>
+  <h3>{% if page.lang == 'no' %}Styret høsten 2016{% else %}The board fall 2016{% endif %}</h3>
   <div class="panel panel-default">
     <div class="panel-body">
 
@@ -8,41 +8,41 @@
 
         <div class="row">
           <div class="col-sm-4 member">
-            <img class="img-circle member-img" src="static/img/espen.jpg">
+            <img class="img-circle member-img" src="{{ site.baseurl }}static/img/espen.jpg">
             <p class="member"><a href="http://github.com/espennaess" target="_blank">Espen Næss</a></p>
-            <p class="member-title">Styreleder</p>
+            <p class="member-title">{% if page.lang == 'no' %}Styreleder{% else %}Chairman{% endif %}</p>
           </div>
 
           <div class="col-sm-4 member">
-            <img class="img-circle member-img" src="static/img/kai.jpg">
+            <img class="img-circle member-img" src="{{ site.baseurl }}static/img/kai.jpg">
             <p class="member"><a href="http://github.com/kaijc" target="_blank">Kai Chiem</a></p>
-            <p class="member-title">Nestleder</p>
+            <p class="member-title">{% if page.lang == 'no' %}Nestleder{% else %}Vice chairman{% endif %}</p>
           </div>
 
           <div class="col-sm-4 member">
-            <img class="img-circle member-img" src="static/img/thomas.jpg">
+            <img class="img-circle member-img" src="{{ site.baseurl }}static/img/thomas.jpg">
             <p class="member"><a href="http://github.com/TGulli" target="_blank">Thomas Gulli</a></p>
-            <p class="member-title">Økonomiansvarlig</p>
+            <p class="member-title">{% if page.lang == 'no' %}Økonomiansvarlig{% else %}Treasurer{% endif %}</p>
           </div>
         </div>
-        
+
         <div class="row">
           <div class="col-sm-4 member">
-            <img class="img-circle member-img" src="static/img/roy.jpg">
+            <img class="img-circle member-img" src="{{ site.baseurl }}static/img/roy.jpg">
             <p class="member"><a href="http://royolav.net" target="_blank">Roy Olav Purser</a></p>
-            <p class="member-title">Arrangementsansvarlig</p>
+            <p class="member-title">{% if page.lang == 'no' %}Arrangementsansvarlig{% else %}Event director{% endif %}</p>
           </div>
 
           <div class="col-sm-4 member">
-            <img class="img-circle member-img" src="static/img/robin.jpg">
+            <img class="img-circle member-img" src="{{ site.baseurl }}static/img/robin.jpg">
             <p class="member"><a href="https://github.com/therobinsj" target="_blank">Robin Saleh-Jan</a></p>
-            <p class="member-title">Kommunikasjonsansvarlig</p>
+            <p class="member-title">{% if page.lang == 'no' %}Kommunikasjonsansvarlig{% else %}Communications director{% endif %}</p>
           </div>
 
           <div class="col-sm-4 member">
-            <img class="img-circle member-img" src="static/img/gaute.jpg">
+            <img class="img-circle member-img" src="{{ site.baseurl }}static/img/gaute.jpg">
             <p class="member"><a href="http://gautesolheim.com" target="_blank">Gaute Solheim</a></p>
-            <p class="member-title">Styremedlem</p>
+            <p class="member-title">{% if page.lang == 'no' %}Styremedlem{% else %}Board member{% endif %}</p>
           </div>
       </div>
     </div>

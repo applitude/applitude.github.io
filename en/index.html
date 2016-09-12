@@ -1,0 +1,20 @@
+---
+layout: home
+lang: 'en'
+---
+
+<section id="about">
+	<div class="container">
+	  <div class="avatar">
+
+		<svg id="logo" viewBox="0 0 {{ site.avatar_width }} {{ site.avatar_height }}" width="{{ site.avatar_width }}">
+            <image x="0" y="0" height="{{ site.avatar_height }}" width="{{ site.avatar_width }}" max-width="90%" xlink:href="{{ site.baseurl }}static/img/{{ site.avatar }}" />
+        </svg>
+
+        <div class="visible-xs" id="space-after-logo"></div>
+	  </div>
+		<h3 class="intro">Applitude is a student organization for everyone interested in app development. We arrange courses, social (h)appenings and meet regularly to program together and grow on each other's expertise.</h3>
+		<h3 class="intro">Check out <a href="/prosjekter.html">the project site</a> to find out what we're up to. You'll find our events on our <a href="http://facebook.com/applitude" target="_blank">Facebook page</a>.</h3>
+	  {% include social.html %}
+	</div>
+</section>
