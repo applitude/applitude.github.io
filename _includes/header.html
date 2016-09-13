@@ -2,8 +2,8 @@
   <div class="container">
     <div class="navbar-header">
       <a class="navbar-brand" href="{{ site.baseurl }}{% if page.lang == 'no'%}{% else %}en/{% endif %}"><i class="fa fa-home" style="margin-right:15px;"></i></a>
-      <img class="navbar-brand" id="norwegian-link" style="cursor: pointer;" src="{{ site.baseurl }}static/img/no_flag.png"></img>
-      <img class="navbar-brand" id="english-link" style="cursor: pointer;" src="{{ site.baseurl }}static/img/en_flag.png"></img>
+      <img class="navbar-brand" style="cursor: pointer;" src="{{ site.baseurl }}static/img/no_flag.png" onClick="window.location.href='{{site.baseurl}}{% if page.id %}{{ page.no-version }}{% else %}{{page.path | remove: 'en/'}}{% endif %}'"></img>
+      <img class="navbar-brand" style="cursor: pointer;" src="{{ site.baseurl }}static/img/en_flag.png" onClick="window.location.href='{{site.baseurl}}{% if page.id %}{% for post in site.posts %}{% assign sti = {{page.url | remove: '/'}} %}{% if post.no-version == sti %}{{post.url | remove: '/'}}{% endif %}{% endfor %} {% else %}en/{{page.path}}{% endif %}'"></img>
     </div>
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">
@@ -11,7 +11,7 @@
         <li><a href="{{ site.baseurl }}{% if page.lang == 'no' %}{% else %}en/{% endif %}prosjekter.html">{% if page.lang == 'no' %}PROSJEKTER{% else %}PROJECTS{% endif %}</a></li>
         <li><a href="{{ site.baseurl }}{% if page.lang == 'no' %}{% else %}en/{% endif %}styret.html">{% if page.lang == 'no' %}STYRET{% else %}BOARD MEMBERS{% endif %}</a></li>
         <li><a href="{{ site.baseurl }}vedtekter{% if page.lang == 'no' %}{% else %}_en{% endif %}.html">{% if page.lang == 'no' %}VEDTEKTER{% else %}STATUTES{% endif %}</a></li>
-        <li><a href="{{ site.baseurl }}slack_{{page.lang}}.html">SLACK</a></li>
+        <li><a href="{{ site.baseurl }}slack{% if page.lang == 'no' %}{% else %}_en{% endif %}.html">SLACK</a></li>
         <li><a href="https://docs.google.com/forms/d/10QyDgzLyBh9TpBEpjlq4oCRm4YdYsfLF1z3XfqpDOL4/viewform">{% if page.lang == 'no' %}BLI MEDLEM{% else %}BECOME A MEMBER{% endif %}</a></li>
       </ul>
     </div>

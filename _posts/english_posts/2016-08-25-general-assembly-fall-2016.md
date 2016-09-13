@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: 'en'
+no-version: 'generalforsamling-høst-2016.html'
 title: General assembly fall 2016
 ---
 Applitude invites to general assembly!

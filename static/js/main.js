@@ -12,10 +12,12 @@ jQuery(document).ready(function(e) {
 });
 document.addEventListener('DOMContentLoaded', function(){
     $("#norwegian-link").click(function(){
+      window.location.href="{{site.baseurl}}";
+      /*
         if(window.location.href.indexOf("/no/") !== -1){
             return;
         }
-        var newUrl = window.location.href.replace("\/en\/", "\/no\/");
+        var newUrl = window.location.href.replace("\/en\/", "\/");
         if(newUrl === window.location.href){
             newUrl = "/";
         }
@@ -28,9 +30,11 @@ document.addEventListener('DOMContentLoaded', function(){
             error: function(){
                 window.location.href = "/";
             }
-        })
+        })*/
     })
     $("#english-link").click(function(){
+        window.location.href="{{site.baseurl}}en/";
+      /*
         if(window.location.href.indexOf("/en/") !== -1){
             return;
         }
@@ -47,6 +51,6 @@ document.addEventListener('DOMContentLoaded', function(){
             error: function(){
                 window.location.href = "/en/";
             }
-        })
+        })*/
     })
 });

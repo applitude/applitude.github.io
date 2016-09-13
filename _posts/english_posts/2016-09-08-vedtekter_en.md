@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: 'en'
+no-version: 'vedtekter.html'
 title: Statutes
 ---
 
