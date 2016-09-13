@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: 'no'
+en-version: 'vedtekter_en.html'
 title: Vedtekter
 ---
 

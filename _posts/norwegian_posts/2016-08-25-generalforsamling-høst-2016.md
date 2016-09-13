@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: 'no'
+en-version: 'general-assembly-fall-2016.html'
 title: Generalforsamling høst 2016
 ---
 
