@@ -11,7 +11,7 @@ på både Android og iOS utvikling og gikk gjennom sammenhengen mellom appen som
 
 <small>Innlegget fortsetter under bildet</small>
 
-<img class="img-center" src="static/img/workshop_h2016.jpg">
+<img class="img-center" src="static/img/workshoph2016.jpg">
 
 Vi ser frem til å se mange av dere på våre kommende appkvelder/arrangementer!
 
