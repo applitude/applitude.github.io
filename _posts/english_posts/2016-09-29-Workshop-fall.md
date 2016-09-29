@@ -10,7 +10,7 @@ both Android and iOS development and we saw how code and IDE's help us to realiz
 
 <small>Post continues below</small>
 
-<img class="img-center" src="static/img/workshop-h2016.jpg">
+<img class="img-center" src="static/img/workshoph2016.jpg">
 
 We look forward to see you again on our upcoming events :)
 
