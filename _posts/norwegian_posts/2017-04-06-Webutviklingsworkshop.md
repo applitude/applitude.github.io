@@ -14,6 +14,6 @@ Det ble servert pizza, godteri og brus som overraskelse til de oppmøtte. Arrang
 
 Mulig vi også tar et kurs om templatmetaprogrammering snart.
 
-<img class="img-center" src="static/img/webworkshop.jpg">
+<img class="img-center" src="static/img/Webworkshop.jpg">
 
 <small>Skrevet av Espen Næss</small>
