@@ -10,7 +10,7 @@ Vi tok i bruk et flott webutviklingsverktøy kalt Brackets og et rammeverk kalt 
 
 Det ble servert pizza, godteri og brus som overraskelse til de oppmøtte. Arrangementet ble veldig hyggelig. En stor takk til alle som møtte opp!
 
-<b>Vi skal snart holde flere kurs og alle er velkommen til å delta! Medlemskap kreves ikke for å delta på våre arrangementer!</b>
+<b>Vi skal holde flere kurs etter påska og alle er velkommen til å delta! Medlemskap kreves ikke for å delta på våre arrangementer!</b>
 
 Mulig vi også tar et kurs om templatmetaprogrammering snart.
 
