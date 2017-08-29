@@ -40,20 +40,20 @@ Difor ynskjer me å fjerna ho.
 
 Med di ynskjer me å revidera fylgjande paragrafar (OBS! Med atterhald om endringar)
 
-§2.1 reviderast til
+§2.1 vert revidert til
 - Alle studenter som har betalt semesteravgift ved Universitetet i Oslo skal, dersom de ønsker det, tildeles medlemskap.
 
-§2.2 reviderast til
+§2.2 vert revidert til
 - Personer som ikke oppfyller kravene i §2.1 kan, dersom det ikke strider mot gjeldende regler for godkjenning av studentforeninger ved en enhet nevnt i §1, tildeles medlemskap.
 
 §2.3 vil verta fjerna
 
 Det har òg vore eit forslag om å revidera §3.6 som ein konsekvens av fjerninga av semesteravgifta
 
-§3.6 reviderast til
+§3.6 vert revidert til
 - Samtlige av foreningens aktive medlemmer fra forrige semester har stemmerett og kan stille til valg.
 
-Me vil òg sjå på om det er von for å utvida talet på styremedlemmar. Me oppdaterer publiseringa om me vert samde om det.
+Me vil òg sjå på om det er von for å utvida talet på styremedlemmar, evt ha ei internordning. Me oppdaterer publiseringa om me vert samde om det.
 
 Ynskjer du at me skal diskutera ei revidering av fleire vedtekter vil me at du tek kontakt 7 dagar innan generalforsamlinga per e-post kontakt@applitude.no.
 
