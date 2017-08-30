@@ -9,7 +9,7 @@ Me ynskjer både nye og gamle studentar velkomen til generalforsamling i Applitu
 
 Det skjer 13. september 2017 kl. 16:15 i Ole-Johan Dahls hus, rom 2423 Seminarrom Java.
 
-Er du interessert i apputvikling eller vil du berre væra med på å styra ei studentforening?
+Er du interessert i apputvikling eller vil du berre vera med på å styra ei studentforening?
 Kanskje båe delar? Me rår deg til å møta opp hokke som!
 
 ### Saklista for generalforsamlinga
@@ -48,13 +48,20 @@ Med di ynskjer me å revidera fylgjande paragrafar (OBS! Med atterhald om endrin
 
 §2.3 vil verta fjerna
 
-Det har òg vore eit forslag om å revidera §3.6 som ein konsekvens av fjerninga av semesteravgifta
+Det har òg vore eit forslag om å revidera §3.6 som ein konsekvens av fjerninga av mellom anna semesteravgifta
 
 §3.6 vert revidert til
 - Samtlige av foreningens aktive medlemmer fra forrige semester har stemmerett og kan stille til valg.
 
-Me vil òg sjå på om det er von for å utvida talet på styremedlemmar, evt ha ei internordning. Me oppdaterer publiseringa om me vert samde om det.
+Det har òg vore eit forslag om å revidera §3.6 til to nye paragrafar
+
+- Samtlige av foreningens aktive medlemmer har stemmerett
+- Samtlige som oppfyller kravene til medlemskap kan stille til valg.
+
+Me vil òg sjå på om det er von for å utvida talet på styremedlemmar, evt ha ei internordning. Me oppdaterer publiseringa om me vert samde om det. Det vil truleg òg vorte diskutert på forsamlinga.
 
 Ynskjer du at me skal diskutera ei revidering av fleire vedtekter vil me at du tek kontakt 7 dagar innan generalforsamlinga per e-post kontakt@applitude.no.
+
+Lenkje til [facebookarrangementet](https://www.facebook.com/events/103610553666068/)
 
 Vel møtt!
