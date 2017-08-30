@@ -48,7 +48,8 @@ Med di ynskjer me å revidera fylgjande paragrafar (OBS! Med atterhald om endrin
 
 §2.3 vil verta fjerna
 
-Det har òg vore eit forslag om å revidera §3.6 som ein konsekvens av fjerninga av mellom anna semesteravgifta
+Det har òg vore eit forslag om å revidera §3.6 som ein konsekvens av fjerninga av semesteravgifta, då fjerninga av henne gjer skiljet mellom
+eit aktivt medlem og eit passivt medlem meir diffust. Me ynskjer at aktive medlemmar stiller som kandidatar.
 
 §3.6 vert revidert til
 - Samtlige av foreningens aktive medlemmer fra forrige semester har stemmerett og kan stille til valg.
