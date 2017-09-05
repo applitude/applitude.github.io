@@ -59,7 +59,12 @@ Det har òg vore eit forslag om å revidera §3.6 til to nye paragrafar
 - Samtlige av foreningens aktive medlemmer har stemmerett
 - Samtlige som oppfyller kravene til medlemskap kan stille til valg.
 
-Me vil òg sjå på om det er von for å utvida talet på styremedlemmar, evt ha ei internordning. Me oppdaterer publiseringa om me vert samde om det. Det vil truleg òg vorte diskutert på forsamlinga.
+Me vil òg sjå på om det er von for å utvida talet på styremedlemmar, evt ha ei internordning.
+Om me vert samde på generalforsamlinga om å utvida talet på styremedlemmar, må fylgjande paragrafar verta reviderte.
+Forslaget er å utvida med to (2) styremedlemmar.
+
+§4.3 vert revidert til
+- Styret skal ha minimum tre (3) og maksimum ti (10) styremedlemmer. Faste stillinger i styret er leder, nestleder og økonomiansvarlig. Øvrige stillinger bestemmes av styret.
 
 Ynskjer du at me skal diskutera ei revidering av fleire vedtekter vil me at du tek kontakt 7 dagar innan generalforsamlinga per e-post kontakt@applitude.no.
 
