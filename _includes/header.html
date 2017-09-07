@@ -3,9 +3,9 @@
 <nav class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="{{ site.baseurl }}{% if page.lang != 'no'%}en/{% endif %}"><i class="fa fa-home" style="margin-right:15px;"></i></a>
-      <img class="navbar-brand" style="cursor: pointer;" src="/static/img/no_flag.png" onClick="window.location.href='{% if page.lang != 'no' %}{{site.baseurl}}{% if page.id %}{% for post in site.posts %}{% assign sti = {{page.url | remove: '/'}} %}{% if post.en-version == sti %}{{post.url | remove: '/'}}{% endif %}{% endfor %} {% else %}{{page.path | remove: 'en/'}}{% endif %}{% endif %}'"></img>
-      <img class="navbar-brand" style="cursor: pointer;" src="/static/img/en_flag.png" onClick="window.location.href='{% if page.lang != 'en' %}{{site.baseurl}}{% if page.id %}{{ page.en-version }}{% else %}en/{{page.path}}{% endif %}{% endif %}'"></img>
+      <a class="navbar-brand" href="/{% if page.lang != 'no'%}en/{% endif %}"><i class="fa fa-home" style="margin-right:15px;"></i></a>
+      <img class="navbar-brand" style="cursor: pointer;" src="/static/img/no_flag.png" onClick="window.location.href='{% if page.lang != 'no' %}/{% if page.id %}{% for post in site.posts %}{% assign sti = {{page.url | remove: '/'}} %}{% if post.en-version == sti %}{{post.url | remove: '/'}}{% endif %}{% endfor %} {% else %}{{page.path | remove: 'en/'}}{% endif %}{% endif %}'"></img>
+      <img class="navbar-brand" style="cursor: pointer;" src="/static/img/en_flag.png" onClick="window.location.href='{% if page.lang != 'en' %}/{% if page.id %}{{ page.en-version }}{% else %}en/{{page.path}}{% endif %}{% endif %}'"></img>
     </div>
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">

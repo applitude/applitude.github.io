@@ -33,10 +33,10 @@ Kanskje båe delar? Me rår deg til å møta opp hokke som!
 
 ### Fylgjande vedtektsendringar vil au verta stemte over på generalforsamlinga
 
-Dagens styre ynskjer å fjerna paragrafane om ei semesteravgift av di Applitude ikkje lenger er bunden av ho som inntekt,
+Dagens styre ynskjer å fjerna paragrafane om ei semesteravgift av di Applitude ikkje lenger er bunden av henne som inntekt,
 men heller søkjer om midlar hjå FUI når det er høve for det.
 Semesteravgifta har au i røynda vorte fjerna dei føregåande semesterane då me ikkje har kravt inn noko.
-Difor ynskjer me å fjerna ho.
+Difor ynskjer me å fjerna henne.
 
 Med di ynskjer me å revidera fylgjande paragrafar (OBS! Med atterhald om endringar)
 
