@@ -17,15 +17,13 @@ title: Vedtekter
 
 ### §2 - Medlemskap
 
-1. Alle studenter som har betalt semesteravgift ved Universitetet i Oslo skal, dersom de ønsker det, tildeles medlemskap mot betalt medlemskontingent.
+1. Alle studenter som har betalt semesteravgift ved Universitetet i Oslo skal, dersom de ønsker det, tildeles medlemskap.
 
-2. Personer som ikke oppfyller kravene i §2.1 kan, dersom det ikke strider mot gjeldende regler for godkjenning av studentforeninger ved en enhet nevnt i §1, tildeles medlemskap mot betalt medlemskontingent.
+2. Personer som ikke oppfyller kravene i §2.1 kan, dersom det ikke strider mot gjeldende regler for godkjenning av studentforeninger ved en enhet nevnt i §1, tildeles medlemskap.
 
-3. Medlemskontingenten fastsettes av styret.
+3. Medlemskap gjelder fra start av inneværende semesters generalforsamling til start av neste semesters generalforsamling.
 
-4. Medlemskap gjelder fra start av inneværende semesters generalforsamling til start av neste semesters generalforsamling.
-
-5. Medlemskap opphører dersom medlemmets studentstatus opphører.
+4. Medlemskap opphører dersom medlemmets studentstatus opphører.
 
 ### §3 - Generalforsamling
 
@@ -53,7 +51,7 @@ title: Vedtekter
 
 2. Styret er vedtaksdyktige om minst 1/2 av styremedlemmene er til stede. Vedtak fattes ved simpelt flertall.
 
-3. Styret skal ha minimum tre (3) og maksimum åtte (8) styremedlemmer. Faste stillinger i styret er leder, nestleder og økonomiansvarlig. Øvrige stillinger bestemmes av styret.
+3. Styret skal ha minimum tre (3) og maksimum ti (10) styremedlemmer. Faste stillinger i styret er leder, nestleder og økonomiansvarlig. Øvrige stillinger bestemmes av styret.
 
 4. Et medlem kan til enhver tid ha maksimum én (1) stilling i styret.
 
