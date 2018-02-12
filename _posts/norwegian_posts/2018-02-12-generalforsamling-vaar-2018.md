@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: 'no'
-title: Generalforsamling haust 2017
+title: Generalforsamling vår 2018
 ---
 Vi ønsker igjen både nye og gamle studenter velkommen til semesterets generalforsamling!
 Mange stillinger skal bli valgt og vi oppfordrer alle som ønsker å delta i ei forening om å delta.
@@ -33,6 +33,6 @@ Vi har ikke fått inn forslag om vedtektsendringer for i år, så dette utgår.
 
 Før valg av stillingene kan stillingene bli redefinert etter forsamlingas ønske, om
 det foreligger argument for at ei ny stilling vil favne foreninga sine oppgaver bedre.
-Dette gjelder særlig stillinga styremedlem. 
+Dette gjelder særlig stillinga styremedlem.
 
 Vel møtt!
