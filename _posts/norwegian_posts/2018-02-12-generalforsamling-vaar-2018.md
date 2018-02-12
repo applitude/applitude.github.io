@@ -4,7 +4,7 @@ lang: 'no'
 title: Generalforsamling vår 2018
 ---
 Vi ønsker igjen både nye og gamle studenter velkommen til semesterets generalforsamling!
-Mange stillinger skal bli valgte og vi oppfordrer alle som ønsker å delta i ei forening om å delta.
+Mange stillinger skal velges på ny og vi oppfordrer alle som ønsker å delta i ei forening om å delta.
 
 Se [facebookarrangementet](https://www.facebook.com/events/415297578903690/) for sted og tid!
 
@@ -19,7 +19,7 @@ Se [facebookarrangementet](https://www.facebook.com/events/415297578903690/) for
 
 Vi har ikke fått inn forslag om vedtektsendringer for i år, så dette utgår.
 
-### Følgende stillinger skal bli valgte på ny
+### Følgende stillinger skal velges på ny
 - Nestleder
 - Økonomiansvarlig
 - Arrangementsansvarlig
