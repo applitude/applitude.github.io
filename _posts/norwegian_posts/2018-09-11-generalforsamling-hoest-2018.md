@@ -9,7 +9,7 @@ Mange stillinger skal velges på ny og vi oppfordrer alle som ønsker å delta i
 Se [facebookarrangementet](https://www.facebook.com/events/767214986971498/) for sted, tid og dato!
 
 ### Saklista for generalforsamlinga
-- Valg av møteleder, referent og protokollunderskrivere
+- Valg av møteleder, referent, tellekorps og protokollunderskrivere
 - Godkjenning av innkallinga og saklista
 - Årsberetning
 - Generell del v. Saru Subaschandran, oppsummering av foreningas aktivitet og framtidige planer.
