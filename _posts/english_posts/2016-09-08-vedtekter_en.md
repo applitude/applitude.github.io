@@ -10,11 +10,11 @@ title: Statutes
 
 ### §1 - Navn, tilhørighet og formål
 
-1. Foreningens navn er Applitude studentforening.
+1. Foreningens navn er Appsolutt studentforening.
 
 2. Foreningen er en studentforening ved Institutt for informatikk ved Universitetet i Oslo.
 
-3. Foreningens formål er å skape og vedlikeholde et godt sosialt og faglig miljø for mobil apputvikling blant studenter ved Universitetet i Oslo. Foreningen skal også tilrettelegge for kontakt mellom studenter på forskjellige studieretninger, ferdighetsnivåer og årstrinn.
+3. Foreningens formål er å skape og vedlikeholde et godt sosialt og faglig miljø for webutvikling og mobil apputvikling blant studenter ved Universitetet i Oslo. Foreningen skal også tilrettelegge for kontakt mellom studenter på forskjellige studieretninger, ferdighetsnivåer og årstrinn.
 
 ### §2 - Medlemskap
 
@@ -96,4 +96,4 @@ title: Statutes
 
 1. Foreningen kan oppløses ved at 2/3 av de stemmeberettigede på to etterfølgende ordinære generalforsamlinger stemmer for oppløsning. Ved oppløsning vil midler og eiendeler overføres en annen egnet studentforening.
 
-Sist revidert etter generalforsamling 8.9.2016.
+Sist revidert etter generalforsamling 18.09.2018.
