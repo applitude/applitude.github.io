@@ -5,7 +5,7 @@ en-version: 'vedtekter_en.html'
 title: Vedtekter
 ---
 
-## Vedtekter for Applitude studentforening
+## Vedtekter for Appsolutt studentforening
 
 ### §1 - Navn, tilhørighet og formål
 

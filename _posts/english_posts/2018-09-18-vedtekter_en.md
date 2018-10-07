@@ -4,7 +4,7 @@ lang: 'en'
 title: Statutes
 ---
 
-## Statutes for Applitude student organization
+## Statutes for Appsolutt student organization
 
 ##### To keep the integrity of the statutes we only have a norwegian version
 
