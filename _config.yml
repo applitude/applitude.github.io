@@ -13,18 +13,15 @@ excerpt_separator: ""
 # edit here to achieve your personal greatness
 url: http://www.applitude.no
 baseurl: "/"
-title: Applitude studentforening
-author: Applitude
+title: Applsolutt studentforening
+author: Applsolutt
 description: Studentforening ved Universitetet i Oslo
 avatar: "banner.svg"
-avatar_height: 46
-avatar_width: 316
-
 
 email: kontakt@applitude.no
 github: applitude # username
-facebook: applitude
-twitter: applitudeuio
+facebook: AppsoluttUiO
+twitter: AppsoluttUiO
 # linkedin: username
 # stackoverflow: username   #e.g: users/2735833/proton1h1
 # Comment out if you don't want disqus

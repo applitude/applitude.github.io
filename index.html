@@ -7,14 +7,12 @@ lang: 'no'
 	<div class="container">
 	  <div class="avatar">
 
-		<svg id="logo" viewBox="0 0 {{ site.avatar_width }} {{ site.avatar_height }}" width="{{ site.avatar_width }}">
-            <image x="0" y="0" height="{{ site.avatar_height }}" width="{{ site.avatar_width }}" max-width="90%" xlink:href="{{site.baseurl}}static/img/{{ site.avatar }}" />
-        </svg>
-
-        <div class="visible-xs" id="space-after-logo"></div>
+			<img id="logo" src="{{site.baseurl}}static/img/{{ site.avatar }}" alt="appsolutt banner" />
+			<div class="visible-xs" id="space-after-logo"></div>
+			
 	  </div>
 
-		<h3 class="intro">Applitude er ei studentforening i Oslo for alle som er interesserte i frontend-utvikling. Vi arrangerer kurs, sosiale (h)appenings og møtes jevnlig for å programmere sammen.</h3>
+		<h3 class="intro">Appsolutt er en studentforening i Oslo for alle som er interesserte i frontend-utvikling. Vi arrangerer kurs, sosiale (h)appenings og møtes jevnlig for å programmere sammen.</h3>
 		<h3 class="intro">Sjekk ut <a href="{{site.baseurl}}prosjekter.html">prosjekter-sida</a> for å finne ut hva vi driver med. Neste arrangement	finner du på <a href="http://facebook.com/applitude" target="_blank">Facebook-sida vår</a>.</h3>
 	  {% include social.html %}
 	</div>

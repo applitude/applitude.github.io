@@ -22,8 +22,10 @@ h3.intro {
 }
 
 #logo{
-    margin:auto;
-    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -15em;
+    margin-bottom: -15em;
 }
 
 /* Social links on main page */
@@ -206,6 +208,11 @@ h4 a {
 
 .member-grid {
   padding-top: 4%;
+}
+
+.row-centered {
+  display: flex;
+  justify-content: center;
 }
 
 .member {
