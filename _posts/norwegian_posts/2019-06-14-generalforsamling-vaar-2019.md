@@ -1,18 +1,18 @@
 ---
 layout: post
 lang: 'no'
-title: Generalforsamling vår 2018
+title: Generalforsamling vår 2019
 ---
 Vi ønsker igjen både nye og gamle studenter velkommen til semesterets generalforsamling!
 Mange stillinger skal velges på ny og vi oppfordrer alle som ønsker å delta i ei forening om å delta.
 
-Se [facebookarrangementet](https://www.facebook.com/events/415297578903690/) for sted og tid!
+Se [facebookarrangementet](https://www.facebook.com/events/873813552984117/) for sted og tid!
 
 ### Saklista for generalforsamlinga
 - Valg av møteleder, referent og protokollunderskrivere
 - Godkjenning av innkallinga og saklista
 - Årsberetning
-- Generell del v. Saru Subaschandran, oppsummering av foreningas aktivitet og framtidige planer.
+- Generell del v. Nikolas Martin, oppsummering av foreningas aktivitet og framtidige planer.
 - Økonomiretta del v. William Arild Dahl
 - Godkjenning av regnskap for forrige periode og budsjett for neste periode
 - Valg av styremedlemmer
